@@ -1,0 +1,5 @@
+region = ''                 # Enter your preferred region. Eg: 'us-east-1'
+proj_name= ''               # Enter a name that identifies your project, eg: 'my-website' 
+proj_desc= ''               # Enter a description here, eg: 'automated CI/CD process for my website'
+dns_domain= ''              # Enter your domain, eg: 'mydomain.com'
+website_fqdn= ''            #Add a prefix for non-apex domain sites, eg: 'www.mydomain.com'
