@@ -42,7 +42,7 @@ There are a few things that need to be in place prior to running this script in 
 # Build steps:
 Once all the pre-requisites are satisfied we can begin building out the foundations for our workflow . If you haven't already done so open up your terminal and enter the following commands .
 ```bash
-git clone https://github.com/jeff-tooke/aws-s3-continuous-deployment.git
+git clone https://github.com/jeff-tooke/s3-website-cd-pipeline.git
 ````
 ````bash
 cd aws-s3-continuous-deployment
