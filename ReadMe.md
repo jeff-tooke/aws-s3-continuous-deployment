@@ -2,7 +2,6 @@
 - [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Workflow](#workflow)
-  - [- IAM roles to control access and authorisation .](#iam-roles-to-control-access-and-authorisation)
 - [Pre-requisites](#pre-requisites)
 - [Software requirements](#software-requirements)
 - [Build steps:](#build-steps)
@@ -23,7 +22,7 @@ This script will create the following resources in your AWS account:
 - SSL Certificate for your website .
 - Lambda functions to automatically trigger steps within workflow .
 - IAM roles to control access and authorisation .
-----
+
 # Pre-requisites
 There are a few things that need to be in place prior to running this script in order for it to execute successfully .
 
