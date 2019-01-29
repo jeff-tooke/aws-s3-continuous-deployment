@@ -45,7 +45,7 @@ Once all the pre-requisites are satisfied we can begin building out the foundati
 git clone https://github.com/jeff-tooke/s3-website-cd-pipeline.git
 ````
 ````bash
-cd aws-s3-continuous-deployment
+cd s3-website-cd-pipeline
 ````
 ````bash
 pip install -r requirements.txt
